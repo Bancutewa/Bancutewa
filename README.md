@@ -55,4 +55,4 @@ A Flutter-based app for managing student records, including real-time search and
 
 ## 🎯 Streaks & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Bancutewa&theme=radical)
+![GitHub Streak](https://github-contributor-stats.vercel.app/api?username=Bancutewa&theme=radical)
